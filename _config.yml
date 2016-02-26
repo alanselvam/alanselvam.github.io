@@ -1,0 +1,10 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://alanselvam.github.io
+title: Shortfundly
+email: selvam.m@gmail.com
+author: Selvam.M
+description: Shortfundly building a community to help short film makers / directors. Everybody starts small, showcase talent on our platform and reach out to millions of short film viewers from all over the world.
+paginate: 3
+google_analytics: 
